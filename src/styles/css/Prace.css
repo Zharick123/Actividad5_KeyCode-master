@@ -1,0 +1,26 @@
+.prace{
+    display: flex;
+    background-color: hsl(225, 100%, 98%);
+    width: 80%;
+    align-items: center;
+    border-radius: 10px;
+    padding: 1em;       
+}
+.prace div{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    gap:1em;
+    margin-left: 15px;
+    text-align: left;
+
+}
+.prace div section h4,.prace div section p {
+    margin: 0.5em;
+    padding: 0;
+}
+.prace section a{
+    color: hsl(245, 75%, 52%);
+    font-weight: bold;
+  
+}
